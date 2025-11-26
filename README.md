@@ -6,3 +6,5 @@ This is a sub-set of the larger project https://github.com/Rich5252/SDR-Plugin_T
 TXlink4_Nano.ino is the main file here that includes further descriptions.
 
 This version includes FT4 & FT8 gaussian tone transitions and optimised handling of late TX initiation cases.
+
+73s G4AHN
