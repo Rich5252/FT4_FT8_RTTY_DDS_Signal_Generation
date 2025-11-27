@@ -1,6 +1,8 @@
 # FT4_FT8_RTTY_DDS_Signal_Generation
 Direct RF signal generation of FT4, FT8 and RTTY using an AD9851 DDS and Arduino Nano
 
+Can generate signals on all bands up to at least 50MHz (and probably 70MHz - but not tried)
+
 This is a sub-set of the larger project https://github.com/Rich5252/SDR-Plugin_TXlink_WSJT-X
 
 TXlink4_Nano.ino is the main file here that includes further descriptions.
