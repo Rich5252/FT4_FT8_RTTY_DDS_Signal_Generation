@@ -9,4 +9,6 @@ TXlink4_Nano.ino is the main file here that includes further descriptions.
 
 This version includes FT4 & FT8 gaussian tone transitions and optimised handling of late TX initiation cases.
 
+Now with 0.0419Hz high resolution frequency output for lower noise products and reduced bandwidth.
+
 73s G4AHN
